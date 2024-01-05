@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Gabriel\intro a la programacion\tarea 4\punto12\bin\Debug\net6.0\punto12.exe
+C:\Users\admin\Documents\Gabriel\intro a la programacion\tarea 4\punto12\bin\Debug\net6.0\punto12.deps.json
+C:\Users\admin\Documents\Gabriel\intro a la programacion\tarea 4\punto12\bin\Debug\net6.0\punto12.runtimeconfig.json
+C:\Users\admin\Documents\Gabriel\intro a la programacion\tarea 4\punto12\bin\Debug\net6.0\punto12.dll
+C:\Users\admin\Documents\Gabriel\intro a la programacion\tarea 4\punto12\bin\Debug\net6.0\punto12.pdb
+C:\Users\admin\Documents\Gabriel\intro a la programacion\tarea 4\punto12\obj\Debug\net6.0\punto12.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Gabriel\intro a la programacion\tarea 4\punto12\obj\Debug\net6.0\punto12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Gabriel\intro a la programacion\tarea 4\punto12\obj\Debug\net6.0\punto12.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Gabriel\intro a la programacion\tarea 4\punto12\obj\Debug\net6.0\punto12.AssemblyInfo.cs
+C:\Users\admin\Documents\Gabriel\intro a la programacion\tarea 4\punto12\obj\Debug\net6.0\punto12.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Gabriel\intro a la programacion\tarea 4\punto12\obj\Debug\net6.0\punto12.dll
+C:\Users\admin\Documents\Gabriel\intro a la programacion\tarea 4\punto12\obj\Debug\net6.0\refint\punto12.dll
+C:\Users\admin\Documents\Gabriel\intro a la programacion\tarea 4\punto12\obj\Debug\net6.0\punto12.pdb
+C:\Users\admin\Documents\Gabriel\intro a la programacion\tarea 4\punto12\obj\Debug\net6.0\punto12.genruntimeconfig.cache
+C:\Users\admin\Documents\Gabriel\intro a la programacion\tarea 4\punto12\obj\Debug\net6.0\ref\punto12.dll
